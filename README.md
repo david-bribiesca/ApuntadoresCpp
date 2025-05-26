@@ -1,4 +1,5 @@
-# Punteros en C++: Definiciones y Casos de Uso Esenciales
+# Apuntadores o Punteros en C++: 
+# Definiciones y Casos de Uso Esenciales
 
 ## 1. ¿Qué es un apuntador?
 - Un **apuntador** es una variable cuyo valor es la **dirección de memoria** de otra variable.
